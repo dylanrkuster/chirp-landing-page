@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": ["2GDFC79M88.usdk.chirp"],
+        "paths": ["/bird/*"]
+      }
+    ]
+  }
+}
